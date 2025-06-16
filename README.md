@@ -1,1 +1,1 @@
-# programa-o.c
+super-trunfo
